@@ -11,6 +11,8 @@
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
 // @grant        GM_getValue
+// @downloadURL  https://github.com/Refusings/randomdatago/raw/refs/heads/master/Genshin%20Wiki%20Tools.user.js
+// @updateURL    https://github.com/Refusings/randomdatago/raw/refs/heads/master/Genshin%20Wiki%20Tools.user.js
 // ==/UserScript==
 const DATA_VALUE_NAME = "paimonmoe_account_data";
 let DATA = null;
